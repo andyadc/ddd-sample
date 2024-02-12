@@ -1,0 +1,1 @@
+package com.dddframework.base.core;
