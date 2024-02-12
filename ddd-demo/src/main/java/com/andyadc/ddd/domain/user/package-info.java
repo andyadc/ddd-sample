@@ -1,0 +1,1 @@
+package com.andyadc.ddd.domain.user;
