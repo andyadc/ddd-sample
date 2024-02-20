@@ -13,7 +13,6 @@
         <module>base-bom</module>
         <module>base-parent</module>
         <module>ddd-demo</module>
-        <module>base-contract-parent</module>
     </modules>
 
     <packaging>pom</packaging>
