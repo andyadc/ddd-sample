@@ -20,6 +20,7 @@
         <module>base-persistence</module>
         <module>base-web</module>
         <module>base-messaging</module>
+        <module>base-util</module>
     </modules>
 
     <properties>
